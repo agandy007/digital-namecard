@@ -3,12 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Gandy;Alan;;;
 FN: Alan Gandy 
-ORG:CB&A Realtors;
+ORG:Pinnacle Realty Advisors;
 TITLE:Realtor
 EMAIL;type=INTERNET;type=WORK;type=pref:alan@gandyrealtor.com
 TEL;type=WORK;type=VOICE:281 917 8517
-item1.ADR;type=WORK;type=pref:;;10200 Grogans Mill Rd Suite 125\nThe Woodlands\, TX;;;77380;
-item1.X-ABADR:sg
 item2.URL;type=pref:gandyrealtor.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
